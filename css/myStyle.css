@@ -1,0 +1,185 @@
+﻿
+.top-part {
+    background-color: #023faf;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 20px 0px;
+    margin: 10px 0px;
+}
+
+.dash {
+    border-bottom: 1px solid;
+    border-bottom-color: #023faf;
+    margin-bottom: 15px;
+}
+
+.comm-btn {
+    width: 100%;
+    padding: 50px 0px;
+    margin: 15px 0px;
+    font-size: 18px;
+    text-transform: uppercase;
+    border-left: 10px solid;
+    border-left-color: #023faf;
+    border-right: 10px solid #023faf;
+    border-radius: 10px;
+    background-color: #7cadde !important;
+}
+
+
+
+
+.add-company {
+    background-color: #7cadde;
+    padding: 10px 5px;
+    color: #fff;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+.add-company-form {
+    border: 1px solid grey;
+    padding: 40px 30px 40px 330px;
+    margin-bottom: 10px;
+}
+
+.add-company-form-label {
+    margin-right: 30px;
+}
+
+
+.add-company-form-success {
+    margin-left: 125px;
+}
+
+
+.add-company-form label {
+    margin-right: 11px;
+    width: 100px !important;
+}
+
+.add-company-form-textbox {
+    margin-right: 15px;
+    width: 300px !important;
+    padding: 5px;
+}
+
+.add-company-form-button {
+    margin-left: 315px;
+    background-color: #7cadde !important;
+}
+
+.add-company-form table {
+    margin-top: 60px;
+    border: 2px solid cornflowerblue;
+}
+
+    .add-company-form table tbody tr td {
+        padding: 8px 34px;
+    }
+
+    .add-company-form table tbody tr th {
+        text-align: center;
+        height: 40px;
+    }
+
+.stock-out-form {
+    border: 1px solid grey;
+    padding: 40px 30px 40px 330px;
+    margin-bottom: 10px;
+}
+
+    .stock-out-form table {
+        margin-top: 60px;
+        border: 2px solid cornflowerblue;
+    }
+
+        .stock-out-form table tbody tr td {
+            padding: 8px 38px;
+        }
+
+        .stock-out-form table tbody tr th {
+            text-align: center;
+        }
+
+
+
+.company-list {
+    margin-top: 15px;
+}
+
+    .company-list h4 {
+        background-color: cornflowerblue;
+        padding: 10px 5px;
+        color: #fff;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+.instruction-warning {
+    margin-left: 15px;
+    color: red;
+}
+
+
+.instruction-success {
+    margin-left: 220px;
+    color: green;
+}
+
+.add-company-form-dropdown {
+    margin-right: 15px;
+    margin-left: 46px;
+    width: 300px;
+    padding: 5px;
+}
+
+.add-item-reorder-margin {
+    margin-right: 20px;
+}
+
+.add-item-name-margin {
+    margin-right: 38px;
+}
+
+.add-item-form-button {
+    margin-left: 356px;
+    background-color: #7cadde !important;
+}
+
+.stock-in-company-dropdown {
+    margin-right: 15px;
+    margin-left: 69px;
+    width: 300px;
+    padding: 5px;
+}
+
+.stock-in-item-dropdown {
+    margin-right: 15px;
+    margin-left: 102px;
+    width: 300px;
+    padding: 5px;
+}
+
+.stock-in-reorder-margin {
+    margin-right: 44px;
+}
+
+.stock-in-available-quantity {
+    margin-right: 20px;
+}
+
+.stock-in-quantity-label {
+    margin-right: 27px;
+}
+
+.stock-in-save-button {
+    margin-left: 386px;
+    background-color: #7cadde !important;
+}
+
+div.error {
+    color: red;
+}
